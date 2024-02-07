@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+require('dotenv').config()
 
 const dbConfig = "mongodb+srv://admir:b2rF7yB774egVzZZ@cluster0.xpykcik.mongodb.net/anottations?retryWrites=true&w=majority";
 
